@@ -23,7 +23,7 @@ CREATE TABLE `v9_updateapk` (
   `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
   `name` varchar(255) DEFAULT '0',
   `url` varchar(255) DEFAULT NULL,
-  `version` int(11) DEFAULT '0',
+  `version` varchar(255) DEFAULT NULL,
   `updatetime` varchar(255) DEFAULT NULL,
   `code` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`id`),
