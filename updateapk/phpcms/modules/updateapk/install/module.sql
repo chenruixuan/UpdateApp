@@ -1,0 +1,1 @@
+INSERT INTO `phpcms_module` (`module`, `name`, `url`, `iscore`, `version`, `description`, `setting`, `listorder`, `disabled`, `installdate`, `updatedate`) VALUES ('updateapk', '客户端更新', 'updateapk/', 0, '1.0', '客户端更新', '', 0, 0, '2010-9-05', '2010-9-05');
